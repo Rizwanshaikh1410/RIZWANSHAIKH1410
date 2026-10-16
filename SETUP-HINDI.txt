@@ -1,0 +1,35 @@
+============================================================
+  GITHUB 3D ANIMATED PROFILE - SETUP GUIDE (Hindi)
+  Repo: Rizwanshaikh1410 / RIZWANSHAIKH1410
+============================================================
+
+IS ZIP ME KYA HAI:
+  README.md                        -> tumhari animated 3D profile
+  banner.gif                       -> animated 3D hero banner (rotating cube)
+  instagram-icon.png               -> Instagram ka real gradient icon
+  .github/workflows/snake.yml      -> snake animation banane wala robot
+  .github/workflows/3d-contrib.yml -> 3D contribution graph banane wala robot
+
+LAGANE KE STEPS:
+  1. Is zip ko extract karo (right click > Extract All).
+  2. Kholo: github.com/Rizwanshaikh1410/RIZWANSHAIKH1410
+  3. "Add file" button dabao > "Upload files" chuno.
+  4. Extract kiye hue folder ki SAARI cheezen drag karke browser me chhodo:
+     README.md, banner.gif, aur .github folder.
+     (Purani files replace ho jayengi - puche to confirm kar dena.)
+  5. Neeche green "Commit changes" button dabao.
+  6. Upar "Actions" tab kholo. Pehli baar ho to enable karne wala
+     button dabao.
+  7. Left side me "Generate snake animation" pe click karo >
+     "Run workflow" > green button dabao.
+  8. "GitHub-Profile-3D-Contrib" pe click karo >
+     "Run workflow" > green button dabao.
+  9. 2-4 minute ruko. Phir kholo: github.com/Rizwanshaikh1410
+     Tumhari animated 3D profile live hogi!
+
+NOTE:
+  - Snake aur 3D graph PEHLI workflow run ke baad hi dikhenge.
+    Uske baad ye automatic update hote rahenge.
+  - banner.gif repo ke main branch me hona zaroori hai,
+    tabhi profile pe banner dikhega.
+============================================================
